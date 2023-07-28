@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.AssemblyInfo.cs
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assessment17\bin\Debug\net8.0\Assessment17.exe
+C:\Users\a\Desktop\Assessment17\bin\Debug\net8.0\Assessment17.deps.json
+C:\Users\a\Desktop\Assessment17\bin\Debug\net8.0\Assessment17.runtimeconfig.json
+C:\Users\a\Desktop\Assessment17\bin\Debug\net8.0\Assessment17.dll
+C:\Users\a\Desktop\Assessment17\bin\Debug\net8.0\Assessment17.pdb
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.dll
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\refint\Assessment17.dll
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.pdb
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\Assessment17.genruntimeconfig.cache
+C:\Users\a\Desktop\Assessment17\obj\Debug\net8.0\ref\Assessment17.dll
